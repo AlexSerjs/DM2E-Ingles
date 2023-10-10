@@ -1,0 +1,10 @@
+1. Salary
+2. Promotional Oportunities
+3. Work Schedule
+4. Bonuses/Incentives
+5. Employee befits
+6. Location
+7. Company Culture
+8. Professional Development Opportunities
+9. Leadership Style
+10. Company Size 
